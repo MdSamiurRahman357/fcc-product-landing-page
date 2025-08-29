@@ -13,7 +13,7 @@ The page presents a product in a professional and attractive way. It includes a 
 ---
 
 ## 🌐 Live Demo
-👉 [Product Landing Page on GitHub Pages](https://YOUR_USERNAME.github.io/fcc-product-landing-page/)
+👉 [Product Landing Page on GitHub Pages](https://mdsamiurrahman357.github.io/fcc-product-landing-page/)
 
 ---
 
